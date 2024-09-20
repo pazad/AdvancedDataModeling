@@ -11,3 +11,5 @@ To effectively design a dimensional data model, it is essential to address four 
 In this case the store only wants to focus on sales, Locations, time.
 <img src="./image/star-schema.png" width=75%/>
 
+
+
